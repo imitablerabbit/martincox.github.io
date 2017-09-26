@@ -4,8 +4,8 @@ title: "New Blog, New Me"
 date: 2017-09-26
 ---
 
-This is the obligatory "new blog, new me" post. A message for absolutely nobody
-- because who is really going to be reading this bumbling rubbish anyway?
+This is the obligatory "new blog, new me" post. A message for absolutely nobody,
+because who is really going to be reading this bumbling rubbish anyway?
 
 I got a neat looking Jekyll theme from the Internet. It's pretty plain, simple and
 boring, which is quite fitting really. Next time I change this I might choose to
