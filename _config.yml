@@ -8,7 +8,7 @@ url: http://mar.tin.cx/ # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
-disqus_shortname: "hnbloggithub"
+disqus_shortname: "martincox"
 twitter_username: "iammartincox"
 comments: true
 
