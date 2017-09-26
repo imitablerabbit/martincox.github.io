@@ -1,0 +1,56 @@
+
+# SEO settings
+title: "Martin Cox"
+title2: "Winging it, one line of code at a time..." # default: ""
+description: "Just another minimalist Jekyll theme for technical writing."
+keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+url: http://mar.tin.cx/ # site url
+baseurl: "" # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
+
+disqus_shortname: "hnbloggithub"
+twitter_username: "iammartincox"
+comments: true
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "Martin Cox"
+  job      : "Software Engineer"
+  bio      : "Winging it, one line of code at a time..."
+  thumb    : /images/author.jpg
+  email    : me@mar.tin.cx
+  url      : http://mar.tin.cx
+  github   : http://github.com/martincox
+  twitter  : http://twitter.com/iammartincox
+  linkedin : http://linkedin.com/in/martin-cox-265441119
+
+# social settings
+og_locale: "en_GB"
+twitter_card: "summary_large_image"
+twitter_site: "@IAmMartinCox"
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
