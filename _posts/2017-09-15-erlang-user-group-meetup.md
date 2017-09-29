@@ -15,15 +15,15 @@ it was really good to meet everyone that came along.
 The evening was focussed around a talk which was given by Andrew Deane,
 Middleware Systems Development Manager at bet365. Andy started by providing a
 brief context and outlining how bet365 came to choose Riak, the problems that it
-has helped us to solve, and why we believe so strongly in the future of the
-project – not just for ourselves, but for the wider community and the many
+has helped them to solve, and why they believe so strongly in the future of the
+project – not just for themselves, but for the wider community and the many
 organisations who also leverage Riak.
 
 A couple of high-level communications had been put out over the last few weeks
 explaining about the acquisition of Basho's IPR by bet365. Following on from
 those communications, and the completion of the necessary legal exchanges, it
-was important for us to get out in front of the community, face-to-face, and
-layout exactly why we had taken these steps, what events had led up to this
+was important for bet365 to get out in front of the community, face-to-face, and
+layout exactly why they had taken these steps, what events had led up to this
 decision, and what it actually meant for everyone who is already invested in the
 various Riak products. I think that Andy did a really fantastic job of
 clarifying the whole situation, and it was very clear that this was well
